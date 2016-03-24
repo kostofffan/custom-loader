@@ -1,0 +1,22 @@
+{
+  "name": "custom-loader",
+  "version": "1.0.0",
+  "description": "platform dependent module loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kostofffan/custom-loader.git"
+  },
+  "author": "Konstantin Esin <kostofffan@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kostofffan/custom-loader/issues"
+  },
+  "homepage": "https://github.com/kostofffan/custom-loader#readme",
+  "dependencies": {
+    "app-root-path": "^1.0.0"
+  }
+}
